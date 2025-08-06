@@ -14,7 +14,7 @@ const Footer = () => {
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 bg-secondary rounded-xl flex items-center justify-center">
-                <span className="text-secondary-foreground font-bold text-xl">8</span>
+                <span className="text-secondary-foreground font-bold text-xl"><ArrowUp className="w-4 h-4" /></span>
               </div>
               <span className="text-2xl font-bold">Octo-Up</span>
             </div>
